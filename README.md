@@ -32,6 +32,7 @@ If you want to modify, you should download the data sources and extract the file
 | Kalimantan Utara | [File](kabupaten-kota/Kalimantan%20Utara/kalimantan-utara-simplified-topo.json) |
 | Kepulauan Bangka Belitung | [File](kabupaten-kota/Kepulauan%20Bangka%20Belitung/kepulauan-bangka-belitung-simplified-topo.json) |
 | Kepulauan Riau | [File](kabupaten-kota/Kepulauan%20Riau/kepulauan-riau-simplified-topo.json) |
+| Kepulauan Seribu | [File](kabupaten-kota/Jakarta/kepulauan-seribu-simplified-topo.json) |
 | Lampung | [File](kabupaten-kota/Lampung/lampung-simplified-topo.json) |
 | Maluku | [File](kabupaten-kota/Maluku/maluku-simplified-topo.json) |
 | Maluku Utara | [File](kabupaten-kota/Maluku%20Utara/maluku-utara-simplified-topo.json) |
