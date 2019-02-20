@@ -7,7 +7,8 @@ There are some corrections on the maps data, because some of the data from the o
 | source | correction |
 | ----------- | ---------- |
 | [provinsi](http://www.diva-gis.org/gdata) | [Notebook](kabupaten-kota/Data/map_data_correction.ipynb)
-| [kabupaten-kota](http://www.gispedia.com/2016/06/download-shp-indonesia-level-kota-kabupaten.html) | [Notebook](provinsi/Data/map_data_correction.ipynb)
+| [kabupaten-kota](http://www.gispedia.com/2016/06/download-shp-indonesia-level-kota-kabupaten.html) | [Notebook](provinsi/Data/map_data_correction.ipynb)|
+
 If you want to modify, you should download the data sources and extract the files into maps folder under Data folder.
 
 ## Files
