@@ -4,7 +4,7 @@ This repo contains TopoJSON files of Indonesia maps. TopoJSON can be used in a w
 There are some corrections on the maps data, because some of the data from the original source are outdated and there are also typos.
 
 ## Data
-| source | correction |
+| source | cleaning |
 | ----------- | ---------- |
 | [provinsi](http://www.diva-gis.org/gdata) | [Notebook](kabupaten-kota/Data/map_data_correction.ipynb)
 | [kabupaten-kota](http://www.gispedia.com/2016/06/download-shp-indonesia-level-kota-kabupaten.html) | [Notebook](provinsi/Data/map_data_correction.ipynb)|
